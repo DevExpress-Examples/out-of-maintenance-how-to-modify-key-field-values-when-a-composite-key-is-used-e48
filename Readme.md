@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to modify key field values when a composite key is used
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e48/)**
+<!-- run online end -->
 
 
 <p>Although it's not recommended to have editable key fields, sometimes they may be required.<br />
